@@ -6,7 +6,7 @@
 - suporte 
 - produtos
 
-como meio de redirecionamento para o usuario, é apenas um projeto feito em tempo livre kk
+como forma de redirecionamento para o usuario, é apenas um projeto feito em tempo livre kk
 Então não indicaria para ser usado de forma comercial. 
 # 
 # Sobre a arvore do projeto
